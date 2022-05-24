@@ -1,0 +1,16 @@
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\bin\Debug\net5.0\Generics_Advanced.exe
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\bin\Debug\net5.0\Generics_Advanced.deps.json
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\bin\Debug\net5.0\Generics_Advanced.runtimeconfig.json
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\bin\Debug\net5.0\Generics_Advanced.runtimeconfig.dev.json
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\bin\Debug\net5.0\Generics_Advanced.dll
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\bin\Debug\net5.0\Generics_Advanced.pdb
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.csproj.AssemblyReference.cache
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.AssemblyInfoInputs.cache
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.AssemblyInfo.cs
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.dll
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\refint\Generics_Advanced.dll
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.pdb
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\Generics_Advanced.genruntimeconfig.cache
+C:\Users\Lukas Songulija\source\repos\Generics_Advanced\Generics_Advanced\obj\Debug\net5.0\ref\Generics_Advanced.dll
